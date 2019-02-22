@@ -8,8 +8,9 @@ package palindrome.pkg3;
 import javax.swing.*;
 
 /**
- *
- * @author kyluk1259
+ * Kyle Lukaszek   
+ * February 21st 2019
+ * Palindrome 3
  */
 public class Palindrome3 {
 
